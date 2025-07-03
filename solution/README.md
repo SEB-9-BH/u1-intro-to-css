@@ -3,7 +3,7 @@
   <span class="subhead">Solution</span>
 </h1>
 
-If you need to check your work, the full JavaScript solution code can be found here.
+If you need to check your work, the full solution code can be found here.
 
 HTML
 ```html
